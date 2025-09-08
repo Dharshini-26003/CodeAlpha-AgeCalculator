@@ -15,7 +15,6 @@ This is a web application built using **HTML, CSS, and JavaScript** as part of m
 - **JavaScript** – logic (Date object, DOM manipulation)
 
 ## 📸 Screenshot
-![Age Calculator Screenshot](./screenshot.png)
 <img src="./screenshot.png" alt="Age Calculator Screenshot" width="400"/>
 
 
